@@ -1,0 +1,382 @@
+2_11			MASZYNY DO ODSPAJANIA I PRZEMIESZCZANIA GRUNTU
+3_111	148	m-g	Koparki
+4_1111	148	m-g	Koparko-spycharki lub koparko-³adowarki
+5_11111	148	m-g	Koparko-spycharki lub koparko-³adowarki na podwoziu ci¹gnika ko³owego o pojemnoœci 0,15 m3
+5_11112	148	m-g	Koparko-spycharki lub koparko-³adowarki na podwoziu ci¹gnika ko³owego o pojemnoœci 0,25 m3
+4_1113	148	m-g	Koparki jednonaczyniowe ko³owe
+5_11131	148	m-g	Koparki jednonaczyniowe ko³owe o pojemnoœci 0,25 m3
+5_11132	148	m-g	Koparki jednonaczyniowe ko³owe o pojemnoœci 0,40 m3
+5_11133	148	m-g	Koparki jednonaczyniowe ko³owe o pojemnoœci 0,60 m3
+4_1115	148	m-g	Koparki samochodowe
+5_11151	148	m-g	Koparki samochodowe o pojemnoœci 0,25 m3
+5_11152	148	m-g	Koparki samochodowe o pojemnoœci 0,40 m3
+4_1116	148	m-g	Koparki jednonaczyniowe g¹sienicowe
+5_11161	148	m-g	Koparki jednonaczyniowe g¹sienicowe o pojemnoœci 0,25 m3
+5_11162	148	m-g	Koparki jednonaczyniowe g¹sienicowe o pojemnoœci 0,40 m3
+5_11163	148	m-g	Koparki jednonaczyniowe g¹sienicowe o pojemnoœci 0,60 m3
+5_11164	148	m-g	Koparki jednonaczyniowe g¹sienicowe o pojemnoœci 0,75 m3
+5_11165	148	m-g	Koparki jednonaczyniowe g¹sienicowe o pojemnoœci 1,00 m3
+5_11166	148	m-g	Koparki jednonaczyniowe g¹sienicowe o pojemnoœci 1,20 m3
+3_113	148	m-g	Spycharki g¹sienicowe
+5_11332	148	m-g	Spycharki g¹sienicowe o mocy  48 kW [65  KM]
+5_11333	148	m-g	Spycharki g¹sienicowe o mocy  55 kW [75  KM]
+5_11334	148	m-g	Spycharki g¹sienicowe o mocy  74 kW [100 KM]
+5_11335	148	m-g	Spycharki g¹sienicowe o mocy 110 kW [150 KM]
+5_11336	148	m-g	Spycharki g¹sienicowe o mocy 184-221 kW [250-300 KM]
+3_114	148	m-g	£adowarki jednonaczyniowe ko³owe
+5_11412	148	m-g	£adowarki jednonaczyniowe ko³owe o pojemnoœci 1,25 - 1,5 m3
+5_11413	148	m-g	£adowarki jednonaczyniowe ko³owe o pojemnoœci 2,00 m3
+5_11414	148	m-g	£adowarki jednonaczyniowe ko³owe o pojemnoœci 2,50 m3
+5_11415	148	m-g	£adowarki jednonaczyniowe ko³owe o pojemnoœci 3,00 - 3,4 m3
+3_116	148	m-g	Równiarki samojezdne
+5_11612	148	m-g	Równiarki samojezdne o mocy 74 kW [100 KM]
+5_11613	148	m-g	Równiarki samojezdne o mocy 88 kW [120 KM]
+3_117	148	m-g	Zrywarki
+5_11711	148	m-g	Zrywarki przyczepne
+2_12			MASZYNY DO ZAGÊSZCZANIA GRUNTU I NAWIERZCHNI DROGOWYCH
+3_121	148	m-g	Walce
+4_1211	148	m-g	Walce statyczne samojezdne
+5_12111	148	m-g	Walce statyczne samojezdne o masie  4-6 t
+5_12112	148	m-g	Walce statyczne samojezdne o masie  8 t
+5_12113	148	m-g	Walce statyczne samojezdne o masie 10 t
+5_12115	148	m-g	Walce statyczne samojezdne o masie 15 t
+4_1216	148	m-g	Walce statyczne samojezdne ogumione
+5_12162	148	m-g	Walce statyczne samojezdne ogumione o masie 15 t
+3_123	148	m-g	Walce wibracyjne samojezdne
+5_12311	148	m-g	Walce wibracyjne samojezdne o masie 2,5 t
+5_12313	148	m-g	Walce wibracyjne samojezdne o masie 7,5 t
+5_12314	148	m-g	Walce wibracyjne samojezdne o masie 9,0 t
+5_12315	148	m-g	Walce wibracyjne samojezdne o masie 13,0 t
+3_124	148	m-g	Walce wibracyjne ci¹gnione
+4_1241	148	m-g	Walce wibracyjne ci¹gnione jednoosiowe
+5_12411	148	m-g	Walce wibracyjne ci¹gnione jednoosiowe o masie 0,6 t
+3_125	148	m-g	Zagêszczarki
+4_1252	148	m-g	Zagêszczarki spalinowe wibracyjne
+5_12521	148	m-g	Zagêszczarki spalinowe wibracyjne o wydajnoœci 70-90 m3/h
+5_12522	148	m-g	Zagêszczarki spalinowe wibracyjne o wydajnoœci 100 m3/h
+3_126	148	m-g	Ubijaki
+4_1261	148	m-g	Ubijaki elektryczne
+5_12612	148	m-g	Ubijaki elektryczne o masie 200 kg
+4_1262	148	m-g	Ubijaki spalinowe
+5_12622	148	m-g	Ubijaki spalinowe o masie 200 kg
+2_13			MASZYNY DO ROBÓT AGROTECHNICZNYCH I MELIORACYJNYCH
+3_131	148	m-g	Pi³y motorowe
+4_1311	148	m-g	Pi³y motorowe ³añcuchowe
+5_13111	148	m-g	Pi³y motorowe ³añcuchowe o mocy 4,2 KM (komplet)
+3_133	148	m-g	Maszyny do robót agrotechnicznych
+4_1333	148	m-g	Brony
+5_13331	148	m-g	Brony talerzowe (bez ci¹gnika)
+3_136	148	m-g	Maszyny do robót melioracyjnych
+4_1361	148	m-g	Koparki ³añcuchowe wielonaczyniowe
+5_13612	148	m-g	Koparki ³añcuchowe wielonaczyniowe o mocy 37 kW [ 50 KM] - do rowów kablowych
+5_13614	148	m-g	Koparki ³añcuchowe wielonaczyniowe o mocy 74 kW [100 KM] - do rowów
+2_14			POMPY
+3_141	148	m-g	Pompy przeponowe
+4_1411	148	m-g	Pompy przeponowe elektryczne
+5_14111	148	m-g	Pompy przeponowe elektryczne o wydajnoœci do 25 m3/h
+5_14112	148	m-g	Pompy przeponowe elektryczne o wydajnoœci pow. 26 do 35 m3/h
+4_1412	148	m-g	Pompy przeponowe spalinowe
+5_14121	148	m-g	Pompy przeponowe spalinowe o wydajnoœci do 35 m3/h
+3_142	148	m-g	Pompy wirnikowe
+4_1421	148	m-g	Pompy wirnikowe elektryczne
+5_14211	148	m-g	Pompy wirnikowe elektryczne o wydajnoœci do  50 m3/h
+5_14212	148	m-g	Pompy wirnikowe elektryczne o wydajnoœci pow. 50 m3/h
+4_1425	148	m-g	Pompy wirnikowe spalinowe
+5_14251	148	m-g	Pompy wirnikowe spalinowe o wydajnoœci do 50 m3/h
+5_14253	148	m-g	Pompy wirnikowe spalinowe o wydajnoœci 61-80 m3/h
+3_144	148	m-g	Pompy g³êbinowe
+4_1441	148	m-g	Pompy g³êbinowe elektryczne
+5_14411	148	m-g	Pompy g³êbinowe elektryczne o wydajnoœci do 240 m3/h
+3_146	148	m-g	Pompy wysokociœnieniowe hydrauliczne
+4_1463	148	m-g	Pompy wysokociœnieniowe hydrauliczne elektryczne
+5_14632	148	m-g	Pompy wysokociœnieniowe hydrauliczne elektryczne o ciœnieniu do 250 atm
+3_147	148	m-g	Agregaty
+4_1471	148	m-g	Agregaty pompowe
+5_14712	148	m-g	Agregaty pompowe o wydajnoœci do 90 m3/h (h=20 m)
+2_15			MASZYNY DO WIERCEÑ BUDOWLANYCH I ODWODNIENIOWYCH
+3_153	148	m-g	Zestawy wiertnicze
+4_1531	148	m-g	Zestawy wiertnicze z napêdem spalinowym
+5_15315	148	m-g	Zestawy wiertnicze z napêdem spalinowym na samochodzie do otworów o œrednicy 152 - 406 mm/ 50 m
+3_154	148	m-g	Urz¹dzenia wiertnicze
+4_1541	148	m-g	Urz¹dzenia wiertnicze do otworów pod s³upy
+5_15411	148	m-g	Urz¹dzenia wiertnicze do otworów pod s³upy 600 mm/1 m, na ci¹gniku ko³owym
+5_15412	148	m-g	Urz¹dzenia wiertnicze do otworów pod s³upy 800 mm/3 m, na samochodzie
+3_157	148	m-g	Urz¹dzenia do przebiæ poziomych w nasypach
+4_1576	148	m-g	Urz¹dzenia do przebiæ poziomych w nasypach przewiertowe
+5_15761	148	m-g	Urz¹dzenia do przebiæ poziomych w nasypach przewiertowe typu WP 30/ 60 m
+5_15762	148	m-g	Urz¹dzenia do przebiæ poziomych w nasypach przewiertowe typu WP 80/120 m
+2_21			KAFARY, M£OTY I WIBRATORY
+3_219	148	m-g	M³oty
+4_2190	148	m-g	M³oty pneumatyczne
+2_31			¯URAWIE SAMOCHODOWE, SAMOJEZDNE I G¥SIENICOWE
+3_311	148	m-g	¯urawie samochodowe
+5_31112	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu do 4 t
+5_31114	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu  5 -  6 t
+5_31116	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu  7 - 10 t
+5_31121	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 12 - 16 t
+5_31124	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 18 - 20 t
+5_31133	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 25 - 30 t
+5_31135	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 32 - 35 t
+5_31141	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 36 - 42 t
+5_31143	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 45 - 55 t
+5_31145	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 56 - 60 t
+5_31146	148	m-g	¯urawie samochodowe o maksymalnym udŸwigu 72 - 75 t
+3_312	148	m-g	¯urawie samojezdne ko³owe
+5_31212	148	m-g	¯urawie samojezdne ko³owe o maksymalnym udŸwigu do  5 t
+5_31214	148	m-g	¯urawie samojezdne ko³owe o maksymalnym udŸwigu  7 - 10 t
+5_31216	148	m-g	¯urawie samojezdne ko³owe o maksymalnym udŸwigu 12 - 16 t
+5_31231	148	m-g	¯urawie samojezdne ko³owe o maksymalnym udŸwigu 35 t
+3_313	148	m-g	¯urawie samojezdne g¹sienicowe
+5_31316	148	m-g	¯urawie samojezdne g¹sienicowe o maksymalnym udŸwigu 12 do 15 t
+5_31321	148	m-g	¯urawie samojezdne g¹sienicowe o maksymalnym udŸwigu 20 do 25 t
+3_314	148	m-g	¯urawie boczne g¹sienicowe
+5_31416	148	m-g	¯urawie boczne g¹sienicowe o maksymalnym udŸwigu do 15 t
+5_31425	148	m-g	¯urawie boczne g¹sienicowe o maksymalnym udŸwigu 35 t
+3_321	148	m-g	¯urawie wie¿owe torowe o maksymalnym momencie udŸwigu
+5_32117	148	m-g	¯urawie wie¿owe torowe o maksymalnym momencie udŸwigu 80 tm
+5_32118	148	m-g	¯urawie wie¿owe torowe o maksymalnym momencie udŸwigu 100 tm
+5_32121	148	m-g	¯urawie wie¿owe torowe o maksymalnym momencie udŸwigu 160 tm
+4_3213	148	m-g	¯urawie wie¿owe torowe "Potain"
+5_32132	148	m-g	¯urawie wie¿owe torowe "Potain" o maksymalnym momencie udŸwigu 160 tm
+3_322	148	m-g	Tory pod ¿urawie wie¿owe
+5_32211	148	m-g	Tory pod ¿urawie wie¿owe 45-120 tm (100 m)
+5_32212	148	m-g	Tory pod ¿urawie wie¿owe 120-180 tm (100 m)
+2_34			WYCI¥GI TOWAROWO-OSOBOWE I BUDOWLANE
+3_341	148	m-g	Wyci¹gi
+4_3411	148	m-g	Wyci¹gi towarowo-osobowe
+5_34111	148	m-g	Wyci¹gi towarowo-osobowe o udŸwigu 1,0 t
+5_34118	148	m-g	Wyci¹gi towarowo-osobowe o udŸwigu 1,5 t - typ "Gniezno"
+4_3421	148	m-g	Wyci¹gi szybowe
+5_34212	148	m-g	Wyci¹gi szybowe o udŸwigu 1,5 t - z napêdem elektrycznym
+4_3431	148	m-g	Wyci¹gi jednomasztowe
+5_34312	148	m-g	Wyci¹gi jednomasztowe o udŸwigu 0,5 t - z napêdem elektrycznym
+4_3441	148	m-g	Wyci¹gi wolnostoj¹ce
+5_34412	148	m-g	Wyci¹gi wolnostoj¹ce o udŸwigu 0,5 t - z napêdem elektrycznym
+5_34413	148	m-g	Wyci¹gi wolnostoj¹ce o udŸwigu 0,5-0,75 t - z napêdem elektrycznym
+4_3451	148	m-g	Wyci¹gi do urobku ziemi
+5_34512	148	m-g	Wyci¹gi do urobku ziemi o udŸwigu 0,18 t - z napêdem elektrycznym
+2_35			¯URAWIKI, PODNOŒNIKI, WCI¥GARKI I WCI¥GNIKI
+3_351	148	m-g	¯urawie
+4_3511	148	m-g	¯urawie okienne
+5_35111	148	m-g	¯urawie okienne o udŸwigu 0,15 t - przenoœne
+5_35211	148	m-g	¯urawie okienne o udŸwigu do 0,5 t
+4_3531	148	m-g	¯urawie przesuwne przyœcienne lub budowlane
+5_35311	148	m-g	¯urawie przesuwne przyœcienne lub budowlane o udŸwigu 0,5 - 0,75 t
+3_354	148	m-g	DŸwigniki hydrauliczne przenoœne
+5_35453	148	m-g	DŸwigniki hydrauliczne przenoœne o udŸwigu 20-30 t - hydrauliczne 1 t³okowe
+3_356	148	m-g	Wci¹garki
+4_3561	148	m-g	Wci¹garki rêczne
+5_35613	148	m-g	Wci¹garki rêczne o udŸwigu 3 - 5 t
+4_3562	148	m-g	Wci¹garki z napêdem elektrycznym
+5_35621	148	m-g	Wci¹garki z napêdem elektrycznym o udŸwigu do  1,6 t
+5_35622	148	m-g	Wci¹garki z napêdem elektrycznym o udŸwigu 1,6 - 3,2 t
+5_35623	148	m-g	Wci¹garki z napêdem elektrycznym o udŸwigu 3,2 - 5,0 t
+2_36			PRZENOŒNIKI TAŒMOWE
+3_361	148	m-g	Przenoœniki taœmowe
+4_3611	148	m-g	Przenoœniki taœmowe przewoŸne
+5_36111	148	m-g	Przenoœniki taœmowe przewoŸne o d³ugoœci roboczej do 10 m
+5_36112	148	m-g	Przenoœniki taœmowe przewoŸne o d³ugoœci roboczej 10-15 m
+5_36113	148	m-g	Przenoœniki taœmowe przewoŸne o d³ugoœci roboczej 15-20 m
+2_38			WÓZKI JEZDNIOWE
+3_381	148	m-g	Wózki transportowe
+4_3811	148	m-g	Wózki transportowe wid³owe z napêdem elektrycznym
+5_38114	148	m-g	Wózki transportowe wid³owe z napêdem elektrycznym o noœnoœci 2,0 t
+4_3812	148	m-g	Wózki transportowe wid³owe z napêdem spalinowym
+5_38124	148	m-g	Wózki transportowe wid³owe z napêdem spalinowym o noœnoœci 2,0 t
+3_382	148	m-g	Wózki platformowe
+4_3821	148	m-g	Wózki platformowe z napêdem elektrycznym
+5_38211	148	m-g	Wózki platformowe z napêdem elektrycznym o noœnoœci do 2,0 t
+2_39			CI¥GNIKI, SAMOCHODY I PRZYCZEPY
+3_391	148	m-g	Ci¹gniki ko³owe
+5_39114	148	m-g	Ci¹gniki ko³owe o mocy 18-22 kW [25-30 KM]
+5_39116	148	m-g	Ci¹gniki ko³owe o mocy 29-37 kW [40-50 KM]
+5_39121	148	m-g	Ci¹gniki ko³owe o mocy 55-63 kW [75-85 KM]
+5_39124	148	m-g	Ci¹gniki ko³owe o mocy 66-74 kW [90-110 KM]
+4_3915	148	m-g	Zestawy niskopodwoziowe
+5_39151	148	m-g	Zestawy niskopodwoziowe o ³adownoœci do 16 t
+5_39152	148	m-g	Zestawy niskopodwoziowe o ³adownoœci pow. 16 do 30 t
+5_39153	148	m-g	Zestawy niskopodwoziowe o ³adownoœci pow. 30 t
+3_393	148	m-g	Ci¹gniki siod³owe
+4_3931	148	m-g	Ci¹gniki siod³owe z naczep¹
+5_39314	148	m-g	Ci¹gniki siod³owe z naczep¹ o ³adownoœci 16 t
+3_394	148	m-g	Ci¹gniki g¹sienicowe
+5_39411	148	m-g	Ci¹gniki g¹sienicowe o mocy 37-40 kW   [50-55 KM]
+5_39413	148	m-g	Ci¹gniki g¹sienicowe o mocy 55-59 kW   [75-80 KM]
+5_39414	148	m-g	Ci¹gniki g¹sienicowe o mocy 74-81 kW [100-110 KM]
+3_395	148	m-g	Samochody skrzyniowe
+5_39511	148	m-g	Samochody skrzyniowe o ³adownoœci do 0,9 t - dostawcze
+5_39521	148	m-g	Samochody skrzyniowe o ³adownoœci do 5,0 t
+5_39523	148	m-g	Samochody skrzyniowe o ³adownoœci do 5,0 t - z zamontowan¹ wci¹gark¹
+5_39531	148	m-g	Samochody skrzyniowe o ³adownoœci   5-10 t
+5_39541	148	m-g	Samochody skrzyniowe o ³adownoœci  10-15 t
+5_39551	148	m-g	Samochody skrzyniowe o ³adownoœci  15-20 t
+3_396	148	m-g	Przyczepy skrzyniowe, samowy³adowcze, d³u¿ycowe i niskopodwoziowe
+4_3961	148	m-g	Przyczepy skrzyniowe
+5_39611	148	m-g	Przyczepy skrzyniowe o ³adownoœci 3,5 t
+5_39612	148	m-g	Przyczepy skrzyniowe o ³adownoœci 4,5 t
+5_39613	148	m-g	Przyczepy skrzyniowe o ³adownoœci 6,0 t
+5_39621	148	m-g	Przyczepy skrzyniowe o ³adownoœci 10,0 t
+4_3964	148	m-g	Przyczepy samowy³adowcze do ci¹gnika
+5_39641	148	m-g	Przyczepy samowy³adowcze do ci¹gnika o ³adownoœci 5,0 t
+5_39642	148	m-g	Przyczepy samowy³adowcze do ci¹gnika o ³adownoœci 8,0 t
+4_3965	148	m-g	Przyczepy d³u¿ycowe do samochodu
+5_39651	148	m-g	Przyczepy d³u¿ycowe do samochodu o ³adownoœci 4,5 t
+5_39653	148	m-g	Przyczepy d³u¿ycowe do samochodu o ³adownoœci 10,0 t
+5_39655	148	m-g	Przyczepy d³u¿ycowe do samochodu o ³adownoœci 16,0 t
+3_398	148	m-g	Samochody samowy³adowcze i specjalne
+4_3981	148	m-g	Samochody samowy³adowcze
+5_39811	148	m-g	Samochody samowy³adowcze do 5 t
+5_39812	148	m-g	Samochody samowy³adowcze pow. 5 do 10 t
+5_39813	148	m-g	Samochody samowy³adowcze pow.10 do 15 t
+5_39814	148	m-g	Samochody samowy³adowcze pow.15 do 20 t
+5_39815	148	m-g	Samochody samowy³adowcze pow.20 do 25 t
+5_39816	148	m-g	Samochody samowy³adowcze pow.25 do 30 t
+4_3991	148	m-g	Samochody specjalne
+5_39911	148	m-g	Samochody specjalne z platform¹ i balkonem
+5_39912	148	m-g	Podnoœniki monta¿owe PMH
+4_3996	148	m-g	Samochody beczkowozy
+5_39961	148	m-g	Samochody beczkowozy o ³adownoœci 4,0 t
+4_3997	148	m-g	Przyczepy do przewo¿enia kabli o ³adownoœci :
+5_39971	148	m-g	Przyczepy do przewo¿enia kabli o ³adownoœci do 4 t
+5_39972	148	m-g	Przyczepy do przewo¿enia kabli o ³adownoœci pow. 4 do 7 t
+4_3998	148	m-g	Beczkowozy ci¹gnione
+5_39981	148	m-g	Beczkowozy ci¹gnione o pojemnoœci 1500 dm3
+2_42			ZBIORNIKI DO CEMENTU KRUSZYWA, WODY, BETONU I ZAPRAW
+3_422	148	m-g	Zbiorniki
+4_4221	148	m-g	Zbiorniki do cementu
+5_42213	148	m-g	Zbiorniki do cementu o pojemnoœci 16 - 25 m3 - bez dozownika
+4_4241	148	m-g	Zbiorniki 3 - kondygnacyjne
+4_4342	148	m-g	Samochodowe mieszarki transport. do betonu
+5_43421	148	m-g	Samochodowe mieszarki transport. do betonu, o pojemnoœci 2500 dm3
+5_43422	148	m-g	Samochodowe mieszarki transport. do betonu, o pojemnoœci 3500 dm3
+5_43423	148	m-g	Samochodowe mieszarki transport. do betonu, o pojemnoœci 6000 dm3
+2_44			URZ¥DZENIA DO TANSPORTU BETONU I ZAPRAW
+3_441	148	m-g	Podajniki i pompy
+4_4413	148	m-g	Pompy do zapraw o wydajnoœci :
+5_44131	148	m-g	Pompy do zapraw o wydajnoœci do 3 m3/h, wysokoœæ podnoszenia h=30 m
+5_44132	148	m-g	Pompy do zapraw o wydajnoœci do 6 m3/h, wysokoœæ podnoszenia h=30 m
+4_4414	148	m-g	Pompy do betonu na samochodzie
+5_44141	148	m-g	Pompy do betonu na samochodzie o wydajnoœci 60 m3/h
+2_45			URZ¥DZENIA DO ZAGÊSZCZANIA BETONÓW
+3_451	148	m-g	Wibratory do zagêszczania betonu
+4_4511	148	m-g	Wibratory do zagêszczania betonu powierzchniowe z napêdem elektrycznym
+5_45111	148	m-g	Wibratory do zagêszczania betonu powierzchniowe z napêdem elektrycznym do 226 kg
+4_4535	148	m-g	£aty
+5_45351	148	m-g	£aty wibracyjne
+2_46			URZ¥DZENIA DO MIESZANIA, TRANSPORTU I NAK£ADANIA ZAPRAW
+3_461	148	m-g	Mieszarki
+4_4611	148	m-g	Mieszarki do zapraw
+5_46111	148	m-g	Mieszarki do zapraw o wydajnoœci do 3,0 m3/h
+3_462	148	m-g	Agregaty tynkarskie
+5_46212	148	m-g	Agregaty tynkarskie o wydajnoœci 1,1 do 3,0 m3/h
+5_46213	148	m-g	Agregaty tynkarskie o wydajnoœci 3,1 do 6,0 m3/h
+2_47			DESKOWANIA I ŒLIZGI
+3_476	148	m-g	Deskowania systemowe
+4_4761	148	m-g	Deskowania systemowe drobnowymiarowe
+5_47611	148	m-g	Deskowania systemowe drobnowymiarowe "U-Form" (100 m2)
+5_47612	148	m-g	Deskowania systemowe drobnowymiarowe "Stal-Form" (100 m2)
+2_48			RUSZTOWANIA
+3_481	148	m-g	Rusztowania rurowe
+4_4811	148	m-g	Rusztowania rurowe zewnêtrzne
+5_48113	148	m-g	Rusztowania rurowe zewnêtrzne o wysokoœci do 20 m (100 m2 pow. ruszt.)
+5_48117	148	m-g	Rusztowania rurowe zewnêtrzne o wysokoœci do 40 m (100 m2 pow. ruszt.)
+4_4813	148	m-g	Rusztowania rurowe wewnêtrzne 
+5_48132	148	m-g	Rusztowania rurowe wewnêtrzne o wysokoœci do  5 m (100 m2 pow. ruszt.)
+5_48134	148	m-g	Rusztowania rurowe wewnêtrzne o wysokoœci do  9 m (100 m2 pow. ruszt.)
+4_4814	148	m-g	Rusztowania punktowe
+5_48145	148	m-g	Rusztowania punktowe o wysokoœci do 20 m  (jedno rusztowanie)
+3_483	148	m-g	Rusztowania ramowe
+4_4831	148	m-g	Rusztowania ramowe przyœcienne RR-1/30
+5_48315	148	m-g	Rusztowania ramowe przyœcienne RR-1/30 o wysokoœci do 30 m (100 m2 pow. ruszt.)
+4_4833	148	m-g	Rusztowania ramowe warszawskie jednokolumnowe
+5_48331	148	m-g	Rusztowania ramowe warszawskie jednokolumnowe o wysokoœci do  4 m (1 kol.)
+5_48334	148	m-g	Rusztowania ramowe warszawskie jednokolumnowe o wysokoœci do 10 m (1 kol.)
+4_4834	148	m-g	Rusztowania ramowe warszawskie wielokolumnowe
+5_48341	148	m-g	Rusztowania ramowe warszawskie wielokolumnowe o wysokoœci do  4 m (100 m2 pow. ruszt.)
+5_48344	148	m-g	Rusztowania ramowe warszawskie wielokolumnowe o wysokoœci do 10 m (100 m2 pow. ruszt.)
+3_484	148	m-g	Mechaniczne pomosty robocze
+4_4841	148	m-g	Mechaniczne pomosty robocze 1-masztowe MPR-061
+5_48416	148	m-g	Mechaniczne pomosty robocze 1-masztowe MPR-061 o wysokoœci do 35 m (1 kpl.)
+3_485	148	m-g	Podesty ruchome wisz¹ce
+4_4851	148	m-g	Podesty ruchome wisz¹ce nieprzejezdne
+5_48513	148	m-g	Podesty ruchome wisz¹ce nieprzejezdne RwZNp 300/35 (1 kpl.)
+4_4852	148	m-g	Podesty ruchome wisz¹ce przejezdne
+5_48523	148	m-g	Podesty ruchome wisz¹ce przejezdne RwZRp 300/35 (1 kpl.)
+4_4853	148	m-g	Podesty ruchome wisz¹ce nieprzejezdne
+5_48531	148	m-g	Podesty ruchome wisz¹ce nieprzejezdne RwW 1/100 (1 kpl.)
+5_48532	148	m-g	Podesty ruchome wisz¹ce nieprzejezdne RwW 2/100 (1 kpl.)
+5_48533	148	m-g	Podesty ruchome wisz¹ce nieprzejezdne RwW 3/100 (1 kpl.)
+2_52			MASZYNY DO BUDOWY NAWIERZCHNI Z MAS BITUMICZNYCH
+3_522	148	m-g	Maszyny do przygotowania mas bitumicznych
+5_52211	148	m-g	Kocio³ do gotowania lepiku 50 - 100 dm3
+5_52212	148	m-g	Kocio³ do grzania bitumu 1500 dm3
+2_71			MASZYNY I URZ¥DZENIA DO OBRÓBKI METALI
+3_711	148	m-g	Urz¹dzenia do obróbki rur
+4_7113	148	m-g	Giêtarki elektryczno-mechaniczne do rur
+5_71134	148	m-g	Giêtarki elektryczno-mechaniczne do rur o œrednicy do 100 mm
+3_712	148	m-g	Urz¹dzenia do obróbki prêtów
+4_7121	148	m-g	Giêtarki mechaniczne do prêtów
+5_71212	148	m-g	Giêtarki mechaniczne do prêtów o œrednicy do 40 mm
+4_7123	148	m-g	No¿yce elektryczne do prêtów
+5_71231	148	m-g	No¿yce elektryczne do prêtów o œrednicy do 40 mm
+4_7125	148	m-g	Proœciarki do prêtów
+5_71251	148	m-g	Proœciarki do prêtów o œrednicy od 4 do 10 mm
+3_713	148	m-g	Urz¹dzenia do obróbki blach
+4_7133	148	m-g	No¿yce gilotynowe
+5_71332	148	m-g	No¿yce gilotynowe do 13 mm, mechaniczno-elektryczne
+3_719	148	m-g	Pi³y tarczowe
+5_71921	148	m-g	Pi³y tarczowe o œrednicy tarczy 300 mm
+5_71922	148	m-g	Pi³y tarczowe o œrednicy tarczy 710 mm
+2_72			MASZYNY I URZ¥DZENIA DO SPAWANIA I ZGRZEWANIA METALI
+3_721	148	m-g	Spawarki
+4_7211	148	m-g	Spawarki wiruj¹ce
+5_72111	148	m-g	Spawarki wiruj¹ce o maksymalnym natê¿eniu pr¹du do 300 A
+5_72112	148	m-g	Spawarki wiruj¹ce o maksymalnym natê¿eniu pr¹du do 500 A
+4_7212	148	m-g	Spawarki transformatorowe
+5_72121	148	m-g	Spawarki transformatorowe o maksymalnym natê¿eniu pr¹du do 500 A
+4_7213	148	m-g	Spawarki elektr. prostownikowe
+5_72131	148	m-g	Spawarki elektr. prostownikowe o maks.natê¿eniu pr¹du do 250 A
+5_72132	148	m-g	Spawarki elektr. prostownikowe o maks.natê¿eniu pr¹du do 600 A
+4_7216	148	m-g	Pó³automaty spawalnicze w os³onie argonu
+5_72161	148	m-g	Pó³automaty spawalnicze w os³onie argonu do rur
+4_7218	148	m-g	Spawarki spalinowe
+5_72181	148	m-g	Spawarki spalinowe o maksymalnym natê¿eniu pr¹du do 300 A
+3_723	148	m-g	Maszyny i urz¹dzenia do spawania metali
+5_72311	148	m-g	Zestawy spawalnicze tlenowo-acetylenowe
+3_725	148	m-g	Zgrzewarki
+4_7255	148	m-g	Zgrzewarki doczo³owe do rur PE
+4_7256	148	m-g	Zgrzewarki do zgrzewania elektrooporowego rur PE
+3_728	148	m-g	Suszarki do elektrod
+5_72811	148	m-g	Suszarki do elektrod o mocy do 2 kW
+3_751	148	m-g	Maszyny do obróbki betonu, kamienia i materia³ów ogniotrw.
+4_7513	148	m-g	Szlifierki do lastryko
+5_75131	148	m-g	Szlifierki do lastryko o wydajnoœci 5 - 18 m3/h
+2_77			URZ¥DZENIA POZOSTA£E W ROBOTACH WYKOÑCZENIOWYCH
+3_771	148	m-g	Urz¹dzenia w robotach wykoñczeniowych
+4_7716	148	m-g	Piaskarki
+5_77161	148	m-g	Piaskarki do czyszczenia metali
+3_781	148	m-g	Pogr¹¿arki uziomów
+5_78132	148	m-g	Pogr¹¿arki uziomów spalinowe typu SPU-3
+2_81			MASZYNY I URZ¥DZENIA DO WYTWARZANIA ENERGII ELEKTRYCZNEJ
+3_811	148	m-g	Zespo³y pr¹dotwórcze
+4_8111	148	m-g	Zespo³y pr¹dotwórcze jednofazowe
+5_81111	148	m-g	Zespo³y pr¹dotwórcze jednofazowe o mocy 2,5 kVA - przenoœne
+4_8112	148	m-g	Zespo³y pr¹dotwórcze trójfazowe przewoŸne
+5_81121	148	m-g	Zespo³y pr¹dotwórcze trójfazowe przewoŸne o mocy  5,0 kVA
+5_81123	148	m-g	Zespo³y pr¹dotwórcze trójfazowe przewoŸne o mocy 20,0 kVA
+5_81126	148	m-g	Zespo³y pr¹dotwórcze trójfazowe przewoŸne o mocy 55,0 kVA
+2_82			URZ¥DZENIA GRZEWCZE
+3_822	148	m-g	Urz¹dzenia grzewcze
+4_8221	148	m-g	Agregaty grzewcze elektryczne
+5_82211	148	m-g	Agregaty grzewcze elektryczne o mocy do 10000 kcal/h
+5_82212	148	m-g	Agregaty grzewcze elektryczne o mocy powy¿ej 10000 do 20000 kcal/h
+5_82213	148	m-g	Agregaty grzewcze elektryczne o mocy powy¿ej 20000 do 60000 kcal/h
+2_83			SPRÊ¯ARKI POWIETRZA I ZBIORNIKI DO SPRÊ¯ONEGO POWIETRZA
+3_831	148	m-g	Sprê¿arki powietrza
+4_8311	148	m-g	Sprê¿arki powietrza spalinowe, przewoŸne
+5_83111	148	m-g	Sprê¿arki powietrza spalinowe, przewoŸne o wydajnoœci 4 - 5 m3/min
+5_83112	148	m-g	Sprê¿arki powietrza spalinowe, przewoŸne o wydajnoœci 10 m3/min
+5_83113	148	m-g	Sprê¿arki powietrza spalinowe, przewoŸne o wydajnoœci 17 m3/min
+4_8312	148	m-g	Sprê¿arki powietrza elektryczne, przewoŸne
+5_83121	148	m-g	Sprê¿arki powietrza elektryczne, przewoŸne o wydajnoœci 4 - 5 m3/min
+5_83124	148	m-g	Sprê¿arki powietrza elektryczne, przewoŸne o wydajnoœci 0,2-0,4 m3/min - malarskie

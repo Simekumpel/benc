@@ -1,0 +1,5 @@
+Rusztowania zewnêtrzne rurowe i ramowe	0.84
+Rusztowania rurowe punktowe	0.84
+Rusztowania wewnêtrzne rurowe	0.88
+Rusztowania ramowe warszawskie i rusztowania przesuwne	0.84
+Podesty ruchome wisz¹ce oraz mechaniczne pomosty robocze (MPR)	0.82

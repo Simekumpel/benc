@@ -1,0 +1,35 @@
+Tynki i ok³adziny zewnêtrzne
+	tynki zwyk³e - podk³ad i g³adŸ z zaprawy zwyk³ej lub barwionej, tynki nakrapiane zwyk³e lub szlachetne na podk³adzie, tynki cementowe nakrapiane, tynki pocienione
+		wykonane rêcznie	6
+		wykonane mechanicznie	7
+	tynki szlachetne cyklinowane, g³adzone, szlifowane, profile ci¹gnione	3
+	bonie prostok¹tne	2
+	licowanie œcian p³ytkami	3
+	ok³adziny z p³yt kamiennych	4
+	docieplanie œcian budynków	5
+Tynki i ok³adziny wewnêtrzne
+	tynki zwyk³e, cementowe, pocienione, przecierane, filcowanie tynku	6
+	g³adzie gipsowe	3
+	licowanie œcian p³ytkami	3
+	tynki zwyk³e pocienione wykonanie mechaniczne	11
+Ok³adziny z masy lastrykowej	2
+Roboty malarskie
+	wykonane rêcznie	2
+	wykonane mechanicznie	3
+Roboty malarskie	2	3
+Roboty murowe	3
+Roboty ciesielskie	2
+Roboty szklarskie	3
+Roboty blacharskie	2
+Roboty monta¿owe instalacji:
+	instalacje wentylacyjne, klimatyzacyjne, odpylania i transportu pneumatycznego	3
+	instalacje elektryczne i odgromowe	2
+	izolacje termiczne	2
+Roboty monta¿owe ró¿ne:
+	monta¿ pokrycia œcian z lekkiej obudowy	5
+	monta¿ reklam œwietlnych	3
+Roboty spawalnicze	1
+Roboty stolarskie	2
+Uszczelnienie œcian budynków kitem trwale plastycznym	3
+Wykonanie elementów architektonicznych lub plastycznych	3
+Roboty ró¿ne np. zabezpieczenie stolarki okiennej,zdjêcie i za³o¿enie obróbek blacharskich, wstawienie zbitych szyb, czyszczenie i mycie stolarki, œlusarki, posadzek balkonowych itp.	3
